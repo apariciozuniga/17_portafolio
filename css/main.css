@@ -1,81 +1,35 @@
-li{
-	text-decoration: none;
-	color: white;
-	display: inline-block;
-	list-style: none;
-
+/* Inserte su codigo aqui */
+.background{
+	background-color: #f7d111;
+	padding: 15%;
+	margin-top: -2%;
 }
-
-*{
-	font-family: Roboto;
-}
-ul{
-	position: relative;
-	right: -20px ;
-	bottom: 250px;
-}
-.bck{
-	background-color: #ffff00;
-	padding: 300px;
-	margin: auto;	
-}
-.titulo{
-	text-align: center;
-}
-.gray{
-	background-color: gray;
-}
-h1,h5{
-	color: white;
-}
-.caja{
-	background-color:  #ff6600;
-	padding: 15px 4px;
-	border: 2px ridge white;
-	color: white;
-	text-align: center;
-	position: relative;
-	right: 250px;
-	bottom:250px;
-
-}
-.blanco{
-	background-color: white;
-	border: 1px ridge black;
-	
-	margin-top: 20px;
-	margin-bottom: 20px;
-
-}
-.fondo{
-	background-color:  #cccccc;
-
-
-}
-.yellow{
-	background-color: orange;
-	width: 90px;
-	height: 35px ;
-	border: 2px ridge white;
-	padding: 2px;
-	color: white;
-	text-align: center;
-}
-span{
-	text-align: center;
-	display: inline-block;
-
-}
-
-
-
-.footer{
-	background-color:  #262626;
-	padding: 30px;
-	color:white;
-}
-img{
+.imagen{
 	width: 300px;
 	height: 300px;
-	padding: 10px;
+}
+
+.back-gray{
+	background-color: #f2f2f2;
+}
+.back-white{
+	background-color: white;
+	width: 60%;
+	height: 20%;
+	margin-left: 25%;
+	margin-bottom: 10%;
+
+}
+.back-black{
+	background-color: #1c1a1a;
+	padding:3%;
+}
+.text-white{
+	color: white;
+}
+.boton{
+	background-color: #f7eb04;
+}
+.yellow{
+	background-color: #f7d111;
 }
